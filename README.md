@@ -29,13 +29,11 @@ The second dataset, "MLB Salaries - 2022.csv", contains salary information for e
 
 ## Rubric
 
-The rubric provides guidance as to how a student will be evaluated on the project. The document begins by explaining the goals of the assingment, giving an overview of what the student is tasked with, and laying out tips for success. A rubric describing what features are necessary to meet specification for each of the three primary deliverables is also included.
+The rubric provides guidance as to how a student will be evaluated on the project. The document begins by explaining the goals of the assignment, giving an overview of what the student is tasked with, and laying out tips for success. A rubric describing what features are necessary to meet specification for each of the three primary deliverables is also included.
 
 ## References
 
-[1] CITATION. 
-
-R. Bean, “Moneyball 20 Years Later: A Progress Report On Data And Analytics In Professional Sports,” forbes.com, Sept. 18, 2022. [Online]. Available: https://www.forbes.com/sites/randybean/2022/09/18/moneyball-20-years-later-a-progress-report-on-data-and-analytics-in-professional-sports/?sh=7120af64773d. [Accessed May 2, 2023].
+[1] R. Bean, “Moneyball 20 Years Later: A Progress Report On Data And Analytics In Professional Sports,” forbes.com, Sept. 18, 2022. [Online]. Available: https://www.forbes.com/sites/randybean/2022/09/18/moneyball-20-years-later-a-progress-report-on-data-and-analytics-in-professional-sports/?sh=7120af64773d. [Accessed May 2, 2023].
 
 [2] M. Hoffman, “Analysis of Salary for Major League Baseball Players,” M. S. thesis, North Dakota State University of Agriculture and Applied Science, Fargo, ND, 2014.
 
