@@ -10,7 +10,9 @@ As mentioned above, the Hook document is intended to be the first way the studen
 
 ## Materials
 
-The Materials folder contains two PDF documents that could be helpful for a student completing this project. "Moneyball 20 Years Later.pdf" gives context regarding the <i>Moneyball</i> story referenced in the hook document, and elaborates on how other MLB teams and teams in other professional sports leagues are now embracing data-driven strategies to fuel on-field performance [1]. "Analysis_Of_Salary_For_MLB_Players.pdf" is a thesis from Michael Glenn Hoffman, a Statistics major at North Dakota State University. While it is on a scale beyond the scope of this assignment, this thesis includes an attempt to identify if MLB players are underpaid or overpaid [2]. Aspects of Hoffman's thesis and model-building approach may serve as inspiration to a student completing this assignment.
+The Materials folder contains two PDF documents that could be helpful for a student completing this project. "Moneyball 20 Years Later.pdf" gives context regarding the <i>Moneyball</i> story referenced in the hook document, and elaborates on how other MLB teams and teams in other professional sports leagues are now embracing data-driven strategies to fuel on-field performance [1].
+
+"Analysis_Of_Salary_For_MLB_Players.pdf" is a thesis from Michael Glenn Hoffman, a Statistics major at North Dakota State University. While it is on a scale beyond the scope of this assignment, this thesis includes an attempt to identify if MLB players are underpaid or overpaid [2]. Aspects of Hoffman's thesis and model-building approach may serve as inspiration to a student completing this assignment.
 
 ## Data
 
@@ -31,8 +33,10 @@ The rubric provides guidance as to how a student will be evaluated on the projec
 
 ## References
 
-[1] CITATION. [Online]. Available: https://www.forbes.com/sites/randybean/2022/09/18/moneyball-20-years-later-a-progress-report-on-data-and-analytics-in-professional-sports/?sh=7120af64773d. [Accessed May 2, 2023].
+[1] CITATION. 
 
-[2] CITATION. [Online]. Available: https://core.ac.uk/download/pdf/211312266.pdf. [Accessed May 2, 2023].
+R. Bean, “Moneyball 20 Years Later: A Progress Report On Data And Analytics In Professional Sports,” forbes.com, Sept. 18, 2022. [Online]. Available: https://www.forbes.com/sites/randybean/2022/09/18/moneyball-20-years-later-a-progress-report-on-data-and-analytics-in-professional-sports/?sh=7120af64773d. [Accessed May 2, 2023].
 
-[3] CITATION. [Online]. Available: https://www.mlb.com/glossary/standard-stats. [Accessed May 2, 2023].
+[2] M. Hoffman, “Analysis of Salary for Major League Baseball Players,” M. S. thesis, North Dakota State University of Agriculture and Applied Science, Fargo, ND, 2014.
+
+[3] Major League Baseball, “Standard Stats,” <i>Major League Baseball</i>. [Online]. Available: https://www.mlb.com/glossary/standard-stats. [Accessed May 2, 2023].
