@@ -16,19 +16,14 @@ Materials
 
 The Data folder contains the two .csv files relevant to this project. The first, "2022 MLB Player Stats - Batting.csv", gives the name, age, team, league, and batting statistics for each MLB hiter from the 2022 season. Some of the abbrevations for statistics may not be obvious, but their meanings can be found on the MLB's website [here](https://www.mlb.com/glossary/standard-stats)[3].
 
-The second dataset, "MLB Salaries - 2022.csv", contains
+The second dataset, "MLB Salaries - 2022.csv", contains salary information for each MLB player during the 2022 season. The data dictionary for this dataset is provided below
 
-#### Data Dictionary
-
-| Column Name | Data Type   | Description |
-| ----------- | ----------- | ----------- |
-| artist      | String      | This column contains a string of the name of the artist of the song. In this data set, all values in this column are “Taylor Swift”. |
-| album       | String      | This column contains a string of the name of the album the song lyrics are from. This has six unique values, which include: “Taylor Swift”, “Fearless”, “Speak Now”, “Red”, “1989”, and “Reputation”. |
-| track_title | String      | This column contains a string of the name of the song that lyrics are from. |
-| track_n     | Integer     | This column contains the integer of the track number on the album of the song that lyrics are from. |
-| lyrics      | String      | This column contains a string of the song lyrics from the song and line described in the other columns. |
-| line        | Integer     | This column contains an integer of what line of the song the lyrics are from. |
-| year        | Integer     | This column contains an integer value of the year the song the lyrics are from were released. |
+| Column Name | Description |
+| ----------- | ----------- |
+| Player      | The player's name, in "Last, First" format. |
+| Pos'n       | The player's position. |
+| MLS         | The player's Major League Service Time, a measure of how long a player has been in the MLB. It is significant for salary purposes because players become eligible for larger contracts with more Major League Service Time.|
+| 2022        | The player's salary for the 2022 MLB season. |
 
 ## Rubric
 
