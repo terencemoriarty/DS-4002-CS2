@@ -10,7 +10,7 @@ As mentioned above, the Hook document is intended to be the first way the studen
 
 ## Materials
 
-The Materials folder contains two PDF documents that could be helpful for a student completing this project. "Moneyball 20 Years Later.pdf" gives context regarding the <i>Moneyball<\i> story referenced in the hook document, and elaborates on how other MLB teams and teams in other professional sports leagues are now embracing data-driven strategies to fuel on-field performance [1]. "Analysis_Of_Salary_For_MLB_Players.pdf" is a thesis from Michael Glenn Hoffman, a Statistics major at North Dakota State University. While it is on a scale beyond the scope of this assignment, this thesis includes an attempt to identify if MLB players are underpaid or overpaid [2]. Aspects of Hoffman's thesis and model-building approach may serve as inspiration to a student completing this assignment.
+The Materials folder contains two PDF documents that could be helpful for a student completing this project. "Moneyball 20 Years Later.pdf" gives context regarding the <i>Moneyball</i> story referenced in the hook document, and elaborates on how other MLB teams and teams in other professional sports leagues are now embracing data-driven strategies to fuel on-field performance [1]. "Analysis_Of_Salary_For_MLB_Players.pdf" is a thesis from Michael Glenn Hoffman, a Statistics major at North Dakota State University. While it is on a scale beyond the scope of this assignment, this thesis includes an attempt to identify if MLB players are underpaid or overpaid [2]. Aspects of Hoffman's thesis and model-building approach may serve as inspiration to a student completing this assignment.
 
 ## Data
 
