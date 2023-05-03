@@ -2,11 +2,11 @@
 
 ## Contents of the Repository
 
-This repository includes all of the necessary files related to the first DS 4002 project for our group, The Swifties. This README.md file contains an overview of what is included in each of the three folders: SRC, Data, and Figures. The LICENSE.md file explains to a visitor the terms under which they may use and cite this repository. The SRC folder contains all source code for the project. The Data folder contains all of the data for the project. Lastly, the Figures folder contains all figures generated over the course of the project.
+This repository includes all of the necessary files for a student to complete the Identifying Underpaid and Overpaid MLB Hitters project. This README.md file contains an overview of what is included in the repository. The LICENSE.md file explains to a visitor the terms under which they may use and cite this repository. The Hook document is intended to be the first way the student engages with the project. The Materials folder contains two relevant external sources that help to further frame the assignment. The Data folder contains all of the data for the project. The Rubric describes how the student will be evaluated on this project.
 
 ## Hook
 
-Hook
+As mentioned above, the Hook document is intended to be the first way the student engages with the project. It provides the scenario that the students will be placing themselves in, and also gives a brief overview of what deliverables will be required.
 
 ## Materials
 
@@ -28,7 +28,7 @@ Materials
 
 ## Rubric
 
-Rubric
+The rubric provides guidance as to how a student will be evaluated on the project. The document begins by explaining the goals of the assingment, giving an overview of what the student is tasked with, and laying out tips for success. A rubric describing what features are necessary to meet specification for each of the three primary deliverables is also included.
 
 ## References
 
