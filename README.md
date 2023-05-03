@@ -1,20 +1,16 @@
-# DS-4002-CS2
+# Identifying Underpaid and Overpaid MLB Hitters
 
 ## Contents of the Repository
 
 This repository includes all of the necessary files related to the first DS 4002 project for our group, The Swifties. This README.md file contains an overview of what is included in each of the three folders: SRC, Data, and Figures. The LICENSE.md file explains to a visitor the terms under which they may use and cite this repository. The SRC folder contains all source code for the project. The Data folder contains all of the data for the project. Lastly, the Figures folder contains all figures generated over the course of the project.
 
-## SRC
+## Hook
 
-We pulled the source data from Kaggle. It includes all of Taylor Swift's songs released during the time frame 2006-2017. It also includes the lyrics, song name, album name, and year of release.
+Hook
 
-### Installing/Building Code
+## Materials
 
-We downloaded the data as a .csv file and cleaned it for use in R. Make sure the data is available and accessible in the same working directory as the file, and make any neccessary changes to the file path in order for the dataset to be loaded into RStudio on your device.
-
-### Using Code
-
-This code can be used by opening each .R or .Rmd file within RStudio, version 2022.12.
+Materials
 
 ## Data
 
@@ -30,18 +26,12 @@ This code can be used by opening each .R or .Rmd file within RStudio, version 20
 | line        | Integer     | This column contains an integer of what line of the song the lyrics are from. |
 | year        | Integer     | This column contains an integer value of the year the song the lyrics are from were released. |
 
-#### Link to Data
+## Rubric
 
-Our dataset can be found [here](https://www.kaggle.com/datasets/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums) [1].
-
-#### Relevant Notes About Data
-
-There are several significant notes about our dataset. Firstly, it is important to note that it only contains lyrics from Taylor Swift's first six albums, not her entire discography. This led to our group adjusting our hypothesis and research question accordingly. Additionally, it is important to note that the dataset breaks up lyrics by line in each song, so some data aggregation will be necessary in order to use each song as individual data points.
+Rubric
 
 ## References
 
 [1] Vimal, Tarun, “Taylor Swift Song Lyrics from all the albums,” Kaggle.com, CC BY-SA 4.0, 2018. [Online]. Available: https://www.kaggle.com/datasets/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums. [Accessed February 14, 2023].
 
 Our submission for M1 can be found [here](https://docs.google.com/document/d/1kSw-WgsIzZXb8ecAi_E-I_ueoU8nlRZUaWE8Y-7jrLc/edit?usp=sharing).
-
-Our submission for M2 is linked [here](https://docs.google.com/document/d/1C0tUSKeAW0-qPkJrtTJGI97A4vV8yJptQ7cCOelM19A/edit?usp=sharing).
