@@ -14,6 +14,10 @@ Materials
 
 ## Data
 
+The Data folder contains the two .csv files relevant to this project. The first, "2022 MLB Player Stats - Batting.csv", gives the name, age, team, league, and batting statistics for each MLB hiter from the 2022 season. Some of the abbrevations for statistics may not be obvious, but their meanings can be found on the MLB's website [here](https://www.mlb.com/glossary/standard-stats)[3].
+
+The second dataset, "MLB Salaries - 2022.csv", contains
+
 #### Data Dictionary
 
 | Column Name | Data Type   | Description |
@@ -32,6 +36,4 @@ The rubric provides guidance as to how a student will be evaluated on the projec
 
 ## References
 
-[1] Vimal, Tarun, “Taylor Swift Song Lyrics from all the albums,” Kaggle.com, CC BY-SA 4.0, 2018. [Online]. Available: https://www.kaggle.com/datasets/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums. [Accessed February 14, 2023].
-
-Our submission for M1 can be found [here](https://docs.google.com/document/d/1kSw-WgsIzZXb8ecAi_E-I_ueoU8nlRZUaWE8Y-7jrLc/edit?usp=sharing).
+[3] CITATION. [Online]. Available: https://www.mlb.com/glossary/standard-stats. [Accessed May 2, 2023].
