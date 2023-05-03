@@ -10,13 +10,13 @@ As mentioned above, the Hook document is intended to be the first way the studen
 
 ## Materials
 
-Materials
+The Materials folder contains two PDF documents that could be helpful for a student completing this project. "Moneyball 20 Years Later.pdf" gives context regarding the <i>Moneyball<\i> story referenced in the hook document, and elaborates on how other MLB teams and teams in other professional sports leagues are now embracing data-driven strategies to fuel on-field performance [1]. "Analysis_Of_Salary_For_MLB_Players.pdf" is a thesis from Michael Glenn Hoffman, a Statistics major at North Dakota State University. While it is on a scale beyond the scope of this assignment, this thesis includes an attempt to identify if MLB players are underpaid or overpaid [2]. Aspects of Hoffman's thesis and model-building approach may serve as inspiration to a student completing this assignment.
 
 ## Data
 
-The Data folder contains the two .csv files relevant to this project. The first, "2022 MLB Player Stats - Batting.csv", gives the name, age, team, league, and batting statistics for each MLB hiter from the 2022 season. Some of the abbrevations for statistics may not be obvious, but their meanings can be found on the MLB's website [here](https://www.mlb.com/glossary/standard-stats)[3].
+The Data folder contains the two .csv files relevant to this project. The first, "2022 MLB Player Stats - Batting.csv", gives the name, age, team, league, and batting statistics for each MLB hiter from the 2022 season. Some of the abbrevations for statistics may not be obvious, but their meanings can be found on the MLB's website [here](https://www.mlb.com/glossary/standard-stats) [3].
 
-The second dataset, "MLB Salaries - 2022.csv", contains salary information for each MLB player during the 2022 season. The data dictionary for this dataset is provided below
+The second dataset, "MLB Salaries - 2022.csv", contains salary information for each MLB player during the 2022 season. The data dictionary for this dataset is provided below:
 
 | Column Name | Description |
 | ----------- | ----------- |
@@ -30,5 +30,9 @@ The second dataset, "MLB Salaries - 2022.csv", contains salary information for e
 The rubric provides guidance as to how a student will be evaluated on the project. The document begins by explaining the goals of the assingment, giving an overview of what the student is tasked with, and laying out tips for success. A rubric describing what features are necessary to meet specification for each of the three primary deliverables is also included.
 
 ## References
+
+[1] CITATION. [Online]. Available: https://www.forbes.com/sites/randybean/2022/09/18/moneyball-20-years-later-a-progress-report-on-data-and-analytics-in-professional-sports/?sh=7120af64773d. [Accessed May 2, 2023].
+
+[2] CITATION. [Online]. Available: https://core.ac.uk/download/pdf/211312266.pdf. [Accessed May 2, 2023].
 
 [3] CITATION. [Online]. Available: https://www.mlb.com/glossary/standard-stats. [Accessed May 2, 2023].
